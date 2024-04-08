@@ -1,4 +1,5 @@
-# Hey, I'm [Javier] 👋
+# Hey, I'm Javier 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&base=1000&color=blueviolet)
 
 I am a Post-Doctoral Research Fellow at The University of Queensland, Australia.
 
@@ -11,15 +12,11 @@ I have a keen interest in the intersection of plant physiology, crop production,
 
 I am currently engaged in the use of statistical, digital, and model technologies to assess crop growth and development, with the overall goal of enhancing production, resource use efficiency, and sustainability of agricultural systems in Australia.
 
-📬 We have multiple opportunities for agricultural and maths/IT/engineering students to enrol or be co-supervised in research with our teams. Please, get in contact for more details.
+## 🤝 I’m Open for Collaborations
+I'm looking to collaborate on any project combining plant physiology and data analytics for agronomic and ecological research. We also have multiple opportunities for agricultural and maths/IT/engineering students to enrol or be co-supervised in research with our teams. Get in touch for more details, my inbox is always open. I’ll try my best to get back to you!
 
 ## :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jafernandez01)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jafernandez01&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafernandez01)]
-
-## 🤝 I’m Open for Collaborations
-I'm looking to collaborate on any project combining plant physiology and data analytics for agronomic and ecological research. 
-
-📫 Get in touch: my inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafernandez01&theme=dark)
