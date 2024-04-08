@@ -15,9 +15,9 @@ I am currently engaged in the use of statistical, digital, and model technologie
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-jafernandez01&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jafernandez01)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafernandez01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafernandez01)]
 
 ## 🤝 I’m Open for Collaborations
 I'm looking to collaborate on any project combining plant physiology and data analytics for agronomic and ecological research. 
