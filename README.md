@@ -15,8 +15,8 @@ I am currently engaged in the use of statistical, digital, and model technologie
 ## 🤝 I’m Open for Collaborations
 I'm looking to collaborate on any project combining plant physiology and data analytics for agronomic and ecological research. We also have multiple opportunities for agricultural and maths/IT/engineering students to enrol or be co-supervised in research with our teams. Get in touch for more details, my inbox is always open. I’ll try my best to get back to you!
 
-## :fire: My Stats :
+## :fire: My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jafernandez01&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jafernandez01&theme=dark&background=24292e)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafernandez01&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafernandez01&theme=dark&background=24292e)
