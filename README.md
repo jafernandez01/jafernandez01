@@ -19,4 +19,4 @@ I'm looking to collaborate on any project combining plant physiology and data an
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jafernandez01&theme=dark&background=24292e)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafernandez01&theme=dark&background=24292e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafernandez01&theme=vision-friendly-dark)
