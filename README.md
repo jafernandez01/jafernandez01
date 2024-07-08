@@ -4,7 +4,7 @@
 -->
 
 ## 🌱 About me
-I'm passionate about plant physiology, crop production, and applied statistics & programming. In my research, I'm keen on the intersection of plant physiology, crop production, and data analytics. I enjoy exploring how these fields can come together to create innovative solutions for agronomic and ecological research. I'm also passionate about promoting reproducibility and best practices in data analysis in these fields.
+I'm passionate about plant physiology, crop production, and applied statistics & programming. In my research, I enjoy exploring how these fields can come together to create innovative solutions for agronomic and ecological research. I'm also passionate about promoting reproducibility and best practices in data analysis in these fields.
 
 I'm currently engaged in the use of statistical, digital, and model technologies to assess crop growth and development, targeting crop adaptation, resource use efficiencies, and sustainability challenges of agricultural systems in Australia.
 
